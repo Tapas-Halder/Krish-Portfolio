@@ -29,7 +29,7 @@ nav li {
 
 nav a {
     color: rgb(255,255,255);
-    text-decoration: none;
+    text-decoration: none ;
 }
 
 main {
@@ -86,4 +86,18 @@ img {
     z-index: 10 ; 
     bottom: 40px ; 
     left : 30px ; 
+}
+#links {
+    display: flex ; 
+    flex-direction : column ;
+    align-items: center ;
+}
+i {
+    color : black ; 
+}
+#linkdin {
+    margin-left: 1px ; 
+}
+#hart {
+    color : rgb(255,255,255) ;
 }
