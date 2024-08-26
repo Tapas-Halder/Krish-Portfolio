@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-size: cover ; 
-    background-image:url("/storage/emulated/0/Download/Hello.jpg");
+    background-image:url("Hello.jpg");
 }
 
 header {
@@ -17,14 +17,12 @@ nav ul {
     list-style: none ; 
     margin: 0;
     padding: 0;
-    display: flex ; 
+    display: flex ;
     justify-content: space-between;
-     
 }
 
 nav li {
-    margin-right: 20px;
-    
+    margin-right: 0px;
 }
 
 nav a {
