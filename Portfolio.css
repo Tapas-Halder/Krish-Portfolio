@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: rgb(51, 51, 51);
-    color: rgb(255,255,255);
+    
     padding: 16px;
     text-align: center;
 }
@@ -94,7 +94,7 @@ i {
     color : black ; 
 }
 #linkdin {
-    margin-left: 1px ; 
+    margin-left : 1px ; 
 }
 #hart {
     color : rgb(255,255,255) ;
